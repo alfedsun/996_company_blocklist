@@ -1,5 +1,5 @@
 # 996_company_blocklist
-list of 996 working hours company in China.
+#list of 996 working hours company in China.
 
 Huawei
 
